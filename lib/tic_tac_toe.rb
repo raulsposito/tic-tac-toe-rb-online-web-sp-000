@@ -10,3 +10,6 @@ WIN_COMBINATIONS = [
   ]
   
   board = [" "," "," "," "," "," "," "," "," ",]
+  
+  display_board(board)
+  
