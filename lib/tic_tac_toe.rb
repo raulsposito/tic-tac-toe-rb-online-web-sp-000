@@ -1,0 +1,1 @@
+WIN_COMBINAITONS = [[0,1,2], []]
